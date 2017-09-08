@@ -4,7 +4,7 @@
 
 	self.opacity_js = function(){
 		this.elementos = $("[data-opacity*='true']");
-		this.opcity = ".5"; 
+		this.opcity = ".8"; 
 	}
 
 	self.opacity_js.prototype = {
