@@ -132,7 +132,7 @@ body{
     margin: 115px 0px 0px 348px;
     border: 1px solid;
     border-color: gray;
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0);;
     padding: -1px;
 }
 .contP2{
@@ -140,10 +140,10 @@ body{
     width: 485px;
     height: 84px;
     position: absolute;
-    margin: 271px 0px 0px 348px;
+    margin: 271px 0px 0px 350px;
     border: 1px solid;
     border-color: gray;
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0);;
     padding: -1px;
 }
 .contP3{
@@ -151,10 +151,10 @@ body{
     width: 485px;
     height: 84px;
     position: absolute;
-    margin: 413px 0px 0px 348px;
+    margin: 413px 0px 0px 352px;
     border: 1px solid;
     border-color: gray;
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0);;
     padding: -1px;
 }
 
